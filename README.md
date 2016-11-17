@@ -1,7 +1,7 @@
 Scientists on Youtube
 ---
 
-This page is a small collection of interviews and lectures with scienitsts and researchers available on youtube.  Pull requests/additional suggestions welcome.
+This page is a small collection of interviews and lectures with scientists and researchers available on Youtube, in particular footage in which they express their opinions. Pull requests/additional suggestions welcome.
 
 ###John Von Neumann 
 
@@ -22,15 +22,15 @@ This page is a small collection of interviews and lectures with scienitsts and r
 * [Fun to Imagine (BBC)](https://www.youtube.com/watch?v=GqvggMpJgL0) in 1983
 * [The Challenger disaster (CNN)](https://www.youtube.com/watch?v=4kpDg7MjHps) in 1986
 * [Computer Heuristics Lecture](https://www.youtube.com/watch?v=EKWGGDXe5MA) in 1985
-* [The Fanastic Mr Feynman](https://www.youtube.com/watch?v=LyqleIxXTpw) a documetary about Feynman
+* [The Fanastic Mr Feynman](https://www.youtube.com/watch?v=LyqleIxXTpw) a documentary about Feynman
+
+###J. Robert Oppenheimer
+
+* [A conversation with Oppenheimer (Ed Murrow Series)](https://www.youtube.com/watch?v=lVCL3Rnr8xE) in 1955
 
 ###Albert Einstein
 
 * [A collected of archive footage](https://www.youtube.com/watch?v=OamFZCFfQkg) (various dates)
-
-###Carl Sagan
-
-* [Interview with Ted Turner](https://www.youtube.com/watch?v=PQ4qBBWv3b4) in 1989
 
 ###Edward Teller
 
@@ -38,19 +38,12 @@ This page is a small collection of interviews and lectures with scienitsts and r
 * [Nuclear debate with Gordon Edwards](https://www.youtube.com/watch?v=RZy10obDkoo) in 1974
 * [Debate with Klaus Traube (in German)](https://www.youtube.com/watch?v=t7g3XzWiamA) in 1980
 
-###Michio Kaku
-
-* [Interview](https://www.youtube.com/watch?v=tnRlIi_1xzc) in 1991
-
-###J. Rovert Oppenheimer
-
-* [A conversation with Oppenheimer (Ed Murrow Series)](https://www.youtube.com/watch?v=lVCL3Rnr8xE) in 1955
 
 ###Richard Hamming
 
 * [Superintendent's Guest Lecture](https://www.youtube.com/watch?v=8LU-6LZoX-A&list=PL2FF649D0C4407B30&index=32) in 1990
 
-The videos below are a lecture series titled "The Art of Doing Science and Engineering: Learning to Learn", given by Hamming at the Naval Postgraduate School, California in 1995
+The videos below are a lecture series titled "The Art of Doing Science and Engineering: Learning to Learn", given by Hamming at the Naval Postgraduate School, California in 1995. 
 
 * [Introduction](https://www.youtube.com/watch?v=AD4b-52jtos) 
 * [Foundations of the Digital (Discrete) Revolution](https://www.youtube.com/watch?v=x2i5w9onAsY&list=PL2FF649D0C4407B30&index=2)
@@ -83,5 +76,3 @@ The videos below are a lecture series titled "The Art of Doing Science and Engin
 * [You Get What You Measure](https://www.youtube.com/watch?v=LNhcaVi3zPA&list=PL2FF649D0C4407B30&index=29) 
 * [How Do We Know What We Know](https://www.youtube.com/watch?v=ZEjt5PerpeY) 
 * [You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw) 
-
-
