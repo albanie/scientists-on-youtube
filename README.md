@@ -1,19 +1,21 @@
-Scientists on Youtube
+Scientists on YouTube
 ---
 
-This page is a small collection of interviews and lectures with scientists and researchers available on Youtube, in particular footage in which they express their opinions. Pull requests/additional suggestions welcome.
+This page is a small collection of interviews and lectures with scientists and 
+researchers available on YouTube, in particular footage in which they express 
+their opinions. Pull requests/additional suggestions welcome.
 
-###John Von Neumann 
+### John Von Neumann 
 
 * - [A short TV appearance](https://www.youtube.com/watch?v=vLbllFHBQM4) filmed in the early 1950s. 
 
-###Cornelius Lanczos
+### Cornelius Lanczos
 
 * [A discussion of his life](https://www.youtube.com/watch?v=PO6xtSxB5Vg) in 1972
 * [A discussion of mathematics](https://www.youtube.com/watch?v=avSHHi9QCjA) in 1972
 * [A discussion about working with Einstein](https://www.youtube.com/watch?v=Akf-aF06h5A) in 1972
 
-###Richard Feynman
+### Richard Feynman
 
 * [Mathematicians versus Physicists](https://www.youtube.com/watch?v=obCjODeoLVw) in 1964 
 * [Knowing versus Understanding](https://www.youtube.com/watch?v=NM-zWTU7X-k) in 1964 
@@ -22,24 +24,24 @@ This page is a small collection of interviews and lectures with scientists and r
 * [Fun to Imagine (BBC)](https://www.youtube.com/watch?v=GqvggMpJgL0) in 1983
 * [The Challenger disaster (CNN)](https://www.youtube.com/watch?v=4kpDg7MjHps) in 1986
 * [Computer Heuristics Lecture](https://www.youtube.com/watch?v=EKWGGDXe5MA) in 1985
-* [The Fanastic Mr Feynman](https://www.youtube.com/watch?v=LyqleIxXTpw) a documentary about Feynman
+* [The Fantastic Mr Feynman](https://www.youtube.com/watch?v=LyqleIxXTpw) a documentary about Feynman
 
-###J. Robert Oppenheimer
+### J. Robert Oppenheimer
 
 * [A conversation with Oppenheimer (Ed Murrow Series)](https://www.youtube.com/watch?v=lVCL3Rnr8xE) in 1955
 
-###Albert Einstein
+### Albert Einstein
 
 * [A collected of archive footage](https://www.youtube.com/watch?v=OamFZCFfQkg) (various dates)
 
-###Edward Teller
+### Edward Teller
 
 * [Interview with James Day](https://www.youtube.com/watch?v=z8uZKs0Pv68) in 1974
 * [Nuclear debate with Gordon Edwards](https://www.youtube.com/watch?v=RZy10obDkoo) in 1974
 * [Debate with Klaus Traube (in German)](https://www.youtube.com/watch?v=t7g3XzWiamA) in 1980
 
 
-###Richard Hamming
+### Richard Hamming
 
 * [Superintendent's Guest Lecture](https://www.youtube.com/watch?v=8LU-6LZoX-A&list=PL2FF649D0C4407B30&index=32) in 1990
 
@@ -53,7 +55,7 @@ The videos below are a lecture series titled "The Art of Doing Science and Engin
 * [Artificial Intelligence - Part 1](https://www.youtube.com/watch?v=aq_PLEQ9YzI&index=6&list=PL2FF649D0C4407B30) 
 * [Artificial Intelligence](https://www.youtube.com/watch?v=URp-uq3_T3Q&list=PL2FF649D0C4407B30&index=7) 
 * [Artificial Intelligence - part III](https://www.youtube.com/watch?v=GaGGcMyi9BA&index=8&list=PL2FF649D0C4407B30) 
-* [N-Dimensinoal Space](https://www.youtube.com/watch?v=uU_Q2a0S0zI&list=PL2FF649D0C4407B30&index=9) 
+* [N-Dimensional Space](https://www.youtube.com/watch?v=uU_Q2a0S0zI&list=PL2FF649D0C4407B30&index=9) 
 * [Coding Theory - Part I](https://www.youtube.com/watch?v=vNpQL8jo4BI&list=PL2FF649D0C4407B30&index=10) 
 * [Coding Theory - Part II](https://www.youtube.com/watch?v=zTzEL_MX2IA&index=11&list=PL2FF649D0C4407B30) 
 * [Error-Correcting Codes](https://www.youtube.com/watch?v=BZh07Ew32UA&list=PL2FF649D0C4407B30&index=12) 
