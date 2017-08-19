@@ -2,8 +2,7 @@ Scientists on YouTube
 ---
 
 This page is a small collection of interviews and lectures with scientists and 
-researchers available on YouTube, in particular footage in which they express 
-their opinions. Pull requests/additional suggestions welcome.
+researchers available on YouTube. Pull requests/additional suggestions welcome.
 
 ### John Von Neumann 
 
