@@ -78,3 +78,7 @@ The videos below are a lecture series titled "The Art of Doing Science and Engin
 * [You Get What You Measure](https://www.youtube.com/watch?v=LNhcaVi3zPA&list=PL2FF649D0C4407B30&index=29) 
 * [How Do We Know What We Know](https://www.youtube.com/watch?v=ZEjt5PerpeY) 
 * [You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw) 
+
+### John Tukey
+
+* [Cooley and Tukey discuss the history of the FFT](https://www.youtube.com/watch?v=o-UUudjFR1Y)
