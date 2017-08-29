@@ -81,3 +81,7 @@ The videos below are a lecture series titled "The Art of Doing Science and Engin
 ### John Tukey
 
 * [Cooley and Tukey discuss the history of the FFT](https://www.youtube.com/watch?v=o-UUudjFR1Y)
+
+### Paul Dirac
+
+* [Interview at Gottingen, 1982](https://www.youtube.com/watch?v=Et8-gg6XNDY)
