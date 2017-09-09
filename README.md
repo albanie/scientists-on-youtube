@@ -7,7 +7,7 @@ researchers available on YouTube. Pull requests/additional suggestions welcome.
 
 ### John Von Neumann 
 
-* - [A short TV appearance](https://www.youtube.com/watch?v=vLbllFHBQM4) filmed in the early 1950s. 
+* [A short TV appearance](https://www.youtube.com/watch?v=vLbllFHBQM4) filmed in the early 1950s. 
 
 ### Cornelius Lanczos
 
