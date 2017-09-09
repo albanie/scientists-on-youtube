@@ -4,6 +4,7 @@ Scientists on YouTube
 This page is a small collection of interviews and lectures with scientists and 
 researchers available on YouTube. Pull requests/additional suggestions welcome.
 
+
 ### John Von Neumann 
 
 * - [A short TV appearance](https://www.youtube.com/watch?v=vLbllFHBQM4) filmed in the early 1950s. 
@@ -85,3 +86,8 @@ The videos below are a lecture series titled "The Art of Doing Science and Engin
 ### Paul Dirac
 
 * [Interview at Gottingen, 1982](https://www.youtube.com/watch?v=Et8-gg6XNDY)
+
+
+### Stuart Hunter
+
+* [What is Design of Experiments (series), 1966](https://www.youtube.com/watch?v=NoVlRAq0Uxs)
