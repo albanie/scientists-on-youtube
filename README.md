@@ -53,7 +53,7 @@ The videos below are a lecture series titled "The Art of Doing Science and Engin
 * [History of Computers - Software](https://www.youtube.com/watch?v=2e5_Z6oZ0rM&index=4&list=PL2FF649D0C4407B30)
 * [History of Computers - Applications](https://www.youtube.com/watch?v=Au6kopvPKCI&index=5&list=PL2FF649D0C4407B30)
 * [Artificial Intelligence - Part 1](https://www.youtube.com/watch?v=aq_PLEQ9YzI&index=6&list=PL2FF649D0C4407B30) 
-* [Artificial Intelligence](https://www.youtube.com/watch?v=URp-uq3_T3Q&list=PL2FF649D0C4407B30&index=7) 
+* [Artificial Intelligence II](https://www.youtube.com/watch?v=URp-uq3_T3Q&list=PL2FF649D0C4407B30&index=7) 
 * [Artificial Intelligence - part III](https://www.youtube.com/watch?v=GaGGcMyi9BA&index=8&list=PL2FF649D0C4407B30) 
 * [N-Dimensional Space](https://www.youtube.com/watch?v=uU_Q2a0S0zI&list=PL2FF649D0C4407B30&index=9) 
 * [Coding Theory - Part I](https://www.youtube.com/watch?v=vNpQL8jo4BI&list=PL2FF649D0C4407B30&index=10) 
